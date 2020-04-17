@@ -20,7 +20,7 @@ print(list1)
 
 thislist_2 = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(thislist)
-print(thislist[1])
+print('dd '+ thislist[-1])
 print(mylist)
 print(thislist_2[2:5])
 print(thislist_2[-4:-1])
