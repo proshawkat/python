@@ -1,2 +1,2 @@
-w3school - Dictionaries
-youtube - 40
+w3school - while loops
+youtube - 53
