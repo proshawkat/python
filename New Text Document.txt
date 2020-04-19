@@ -1,2 +1,2 @@
-w3school - while loops
-youtube - 53
+w3school - Lambda
+youtube - 85
