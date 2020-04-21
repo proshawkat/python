@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4913857d-0b6c-42ce-9ddf-098ebcf7198a" name="Default Changelist" comment="" />
+    <list default="true" id="4913857d-0b6c-42ce-9ddf-098ebcf7198a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/21-04-2020/cls_iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-04-2020/dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-04-2020/iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-04-2020/json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-04-2020/module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-04-2020/mymodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-04-2020/scope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New Text Document.txt" beforeDir="false" afterPath="$PROJECT_DIR$/New Text Document.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,16 +21,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aa8qMBz352jPZ3bwohfkUWs5Kh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,10 +48,13 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="325" key="SettingsEditor" timestamp="1586963058026">
+    <state x="0" y="325" key="SettingsEditor" timestamp="1587484966042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="325" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586963058026" />
+    <state x="0" y="325" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587484966042" />
   </component>
 </project>
