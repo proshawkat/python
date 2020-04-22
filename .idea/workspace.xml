@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4913857d-0b6c-42ce-9ddf-098ebcf7198a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/21-04-2020/cls_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-04-2020/dates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-04-2020/iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-04-2020/json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-04-2020/module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-04-2020/mymodule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-04-2020/scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-04-2020/delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-04-2020/delete.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-04-2020/demofile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-04-2020/demofile2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-04-2020/file_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-04-2020/pip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-04-2020/regEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-04-2020/string_formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-04-2020/try_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-04-2020/user_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-04-2020/write.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/New Text Document.txt" beforeDir="false" afterPath="$PROJECT_DIR$/New Text Document.txt" afterDir="false" />
     </list>

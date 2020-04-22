@@ -1,2 +1,2 @@
-w3school - iterators
+w3school - Python NumPy
 youtube - 156
