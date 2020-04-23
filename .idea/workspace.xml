@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4913857d-0b6c-42ce-9ddf-098ebcf7198a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/22-04-2020/delete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-04-2020/delete.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-04-2020/demofile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-04-2020/demofile2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-04-2020/file_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-04-2020/pip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-04-2020/regEx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-04-2020/string_formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-04-2020/try_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-04-2020/user_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-04-2020/write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-04-2020/array_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-04-2020/array_iterating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-04-2020/array_reshape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-04-2020/array_shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-04-2020/array_slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-04-2020/copy_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-04-2020/createing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-04-2020/data_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-04-2020/start.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New Text Document.txt" beforeDir="false" afterPath="$PROJECT_DIR$/New Text Document.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-04-2020/delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/22-04-2020/delete.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
