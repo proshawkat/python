@@ -2,22 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4913857d-0b6c-42ce-9ddf-098ebcf7198a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/23-04-2020/array_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-04-2020/array_iterating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-04-2020/array_reshape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-04-2020/array_shape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-04-2020/array_slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-04-2020/copy_view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-04-2020/createing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-04-2020/data_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-04-2020/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-04-2020/array_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-04-2020/array_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-04-2020/array_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-04-2020/array_split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-04-2020/data_distriibution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-04-2020/join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-04-2020/noraml_distri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-04-2020/random_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-04-2020/random_permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-04-2020/seaborn_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/binomial_dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/gcd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/hyperbolic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/lcm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/logs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/rounding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/set_operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/simple_arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/summation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/trigonometric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/ufunc_create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-04-2020/unfunc_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/22-04-2020/delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/22-04-2020/delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New Text Document.txt" beforeDir="false" afterPath="$PROJECT_DIR$/New Text Document.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,6 +78,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1015" y="508" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587844936610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1015" y="508" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587844936610" />
     <state x="0" y="325" key="SettingsEditor" timestamp="1587484966042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
