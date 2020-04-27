@@ -1,0 +1,19 @@
+if __name__ == '__main__':
+    l1 = []
+    r = list()
+    for i in range(int(input())):
+        l1.append([])
+        name = input()
+        score = float(input())
+        l1[i].append(name)
+        l1[i].append(score)
+
+    print(l1)
+
+    for st in l1:
+        for i in st:
+            x = type(i) is float
+            if x :
+                r.append(x)
+                y = sorted(set(r))
+    print(st[0])

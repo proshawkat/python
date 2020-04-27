@@ -1,4 +1,4 @@
-w3school - Machine Learning
+w3school - Mean median mode
 youtube - 156
 
-222657
+152357
