@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4913857d-0b6c-42ce-9ddf-098ebcf7198a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/26-04-2020/machine learning start.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-04-2020/mean_median_mode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-04-2020/standard_deviation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New Text Document (2).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29-04-2020/percentile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29-04-2020/standard_deviation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New Text Document.txt" beforeDir="false" afterPath="$PROJECT_DIR$/New Text Document.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
